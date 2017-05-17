@@ -1,5 +1,5 @@
 {
-    "name": "cake-jcrop/ChartJs",
+    "name": "netusco/cakephp3-chartjs",
     "description": "ChartJs plugin for CakePHP 3.0",
     "type": "cakephp-plugin",
     "repositories": [
