@@ -2,23 +2,10 @@
     "name": "netusco/cakephp3-chartjs",
     "description": "ChartJs plugin for CakePHP 3.0",
     "type": "cakephp-plugin",
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "ChartJs/Chart.js",
-                "version": "1.0.2",
-                "dist": {
-                    "type": "vcs",
-                    "url": "https://github.com/nnnick/Chart.js" 
-                } 
-            }
-        }
-    ],
     "require": {
             "php": ">=5.4",
             "cakephp/cakephp": "~3.0",
-            "ChartJs/Chart.js": "~1"
+            "nnnick/chartjs": "~1"
         },
     "require-dev": {
             "phpunit/phpunit": "*"
